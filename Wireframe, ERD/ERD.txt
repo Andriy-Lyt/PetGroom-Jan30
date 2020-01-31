@@ -1,0 +1,5 @@
+Database tables use schema presented in slass where:
+
+OwnersXPets is bridging table for Owners and Pets tables
+
+BookingsXServices is bridging table for Bookings and Services tables.
